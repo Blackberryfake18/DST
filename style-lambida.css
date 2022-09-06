@@ -16,7 +16,7 @@ body{
     background-size: 500% 500%;
     width: 100vw;
     height: 100vh;
-    animation:fundo 3s linear infinite alternate-reverse;    background-position: center center;
+    background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     animation:fundo 3s linear infinite alternate-reverse;
